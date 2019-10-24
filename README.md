@@ -4,8 +4,9 @@ TP sudoku du groupe 1.
 
 Pas de groupe arbitre défini.
 
-Le projet benchmark résoud l'ensemble des sudokus du fichier Sudoku_top95.txt et affiche le temps de résolution de chaque sudoku et du temps total de résolution.
+Les solvers SMT Z3, CSP et Norvig sont ajouté. Pour run le benchmark, ajouter les fichiers libz3.dylib et libz3.dll dans le dossier /bin/Debug/netcoreapp2.2 du projet Benchmark pour ajouter al dépendance manuellement.
 
-L'idéal serait de comparer les uns en dessous des autres les temps de solvers et d'afficher à la fin l'ensemble des temps de résolution du fichier pour tous les solvers et de déterminé lequel est le plus rapide.
+Le Benchmark choisit un des trois fichiers de sudokus à résoudre et les affiches les uns en dessous des autres avec le temps de résolution de pour chaque solver de chaque sudoku. Egalement à la fin de la résolution le temps de résolution total du fichier est affiché.
+
 
 Pour run le projet, il suffit de fork le projet et de le lancer via Visual Studio (ou directement en ligne de commande). Cependant, le projet tourne avec une version .NET Core 2.2 qui est donc nécessaire.
