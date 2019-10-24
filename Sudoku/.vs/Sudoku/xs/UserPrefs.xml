@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{39D9059B-1592-4269-866F-800EB378DD77}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SolverSMT/SolverSMT.cs">
+    <Files>
+      <File FileName="Core/Sudoku.cs" Line="1" Column="1" />
+      <File FileName="Core/ISudokuSolver.cs" />
+      <File FileName="Benchmark/Program.cs" Line="66" Column="10" />
+      <File FileName="SolverSMT/SolverSMT.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sudoku" expanded="True">
+            <Node name="Benchmark" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="SolverSMT" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="external" expanded="True" />
+              <Node name="SolverSMT.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Core1/Core.csproj</String>
+    <String>Core1/Core1.csproj</String>
+    <String>Benchmark1/Benchmark.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Benchmark PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
